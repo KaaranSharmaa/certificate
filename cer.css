@@ -1,0 +1,21 @@
+div{
+   
+    margin-left: 13rem;
+    margin-right: 20rem;
+    
+
+}
+
+img{
+    height: 45rem;
+    width: 60rem;
+}
+
+*{
+    background-color: antiquewhite;
+}
+
+@media (max-width: 480px) {
+
+    body {background-color: aqua;
+    }}
